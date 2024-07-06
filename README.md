@@ -19,3 +19,11 @@ The primary goal of this project is to provide a functional, responsive, and use
 - Framework/Libraries (e.g., React, Vue.js)
 - Backend (e.g., Node.js, Express)
 - Database (e.g., MongoDB, MySQL)
+  ## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
+
